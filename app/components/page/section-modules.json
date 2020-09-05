@@ -15,7 +15,7 @@
       "repeatable": true,
       "component": "page.modules",
       "required": true,
-      "max": 2
+      "min": 2
     }
   }
 }

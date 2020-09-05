@@ -15,7 +15,7 @@
       "repeatable": true,
       "component": "page.concepts",
       "required": true,
-      "max": 1
+      "min": 1
     }
   }
 }
